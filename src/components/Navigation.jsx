@@ -7,7 +7,7 @@ const Navigation = () => {
       <ul>
         <li href="#">Menu</li>
         <li href="#">Location</li>
-        <li href="#">About</li>
+        <li href="#">About us</li>
         <li href="#">Contact us</li>
       </ul>
 
