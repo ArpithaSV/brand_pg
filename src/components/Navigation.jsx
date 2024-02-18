@@ -7,8 +7,8 @@ const Navigation = () => {
       <ul>
         <li href="#">Menu</li>
         <li href="#">Location</li>
-        <li href="#">About Us</li>
-        <li href="#">Contact Us</li>
+        <li href="#">About us</li>
+        <li href="#">Contact us</li>
       </ul>
 
       <button>Login</button>
